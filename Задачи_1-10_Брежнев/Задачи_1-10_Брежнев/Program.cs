@@ -117,7 +117,7 @@
             }
             else
             {
-                Console.WriteLine("Число входит в диапазон");
+                Console.WriteLine("Число не входит в диапазон");
             }
         }
 
