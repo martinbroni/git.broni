@@ -1,0 +1,15 @@
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\bin\Debug\net6.0\Задачи_1-10_Брежнев.exe
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\bin\Debug\net6.0\Задачи_1-10_Брежнев.deps.json
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\bin\Debug\net6.0\Задачи_1-10_Брежнев.runtimeconfig.json
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\bin\Debug\net6.0\Задачи_1-10_Брежнев.dll
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\bin\Debug\net6.0\Задачи_1-10_Брежнев.pdb
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\obj\Debug\net6.0\Задачи_1-10_Брежнев.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\obj\Debug\net6.0\Задачи_1-10_Брежнев.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\obj\Debug\net6.0\Задачи_1-10_Брежнев.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\obj\Debug\net6.0\Задачи_1-10_Брежнев.AssemblyInfo.cs
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\obj\Debug\net6.0\Задачи_1-10_Брежнев.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\obj\Debug\net6.0\Задачи_1-10_Брежнев.dll
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\obj\Debug\net6.0\refint\Задачи_1-10_Брежнев.dll
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\obj\Debug\net6.0\Задачи_1-10_Брежнев.pdb
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\obj\Debug\net6.0\Задачи_1-10_Брежнев.genruntimeconfig.cache
+C:\Users\Админ\source\repos\Задачи_1-10_Брежнев\Задачи_1-10_Брежнев\obj\Debug\net6.0\ref\Задачи_1-10_Брежнев.dll

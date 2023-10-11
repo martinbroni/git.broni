@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Задачи_1-10_Брежнев/1.0.0": {
+        "runtime": {
+          "Задачи_1-10_Брежнев.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задачи_1-10_Брежнев/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
